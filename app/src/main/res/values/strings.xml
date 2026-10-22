@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Galerie Organisée Pro</string>
+    <string name="nav_title">Dossiers</string>
+    <string name="add_folder">Nouveau dossier</string>
+    <string name="settings_levels">Niveaux max (1-10)</string>
+    <string name="folder_name_hint">Nom du dossier</string>
+    <string name="cancel">Annuler</string>
+    <string name="create">Créer</string>
+    <string name="rename">Renommer</string>
+    <string name="delete">Supprimer</string>
+    <string name="error_max_level">Impossible de dépasser le niveau maximum autorisé.</string>
+    <string name="error_min_level">Impossible de descendre sous le niveau le plus profond déjà utilisé.</string>
+</resources>
